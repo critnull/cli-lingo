@@ -11,4 +11,5 @@
 ### Usage examples:
 - `python3 cli-lingo.py "我是一个机器人，我需要上油"`
 - `python3 cli-lingo.py "Ich bin ein Roboter und muss geölt werden."`
-> Note: Fun tip: You can use this to (singular/mass)rename file in other langues, eg: `mv "电视遥控器手册.pdf" "$(python cli-lingo.py "电视遥控器手册").pdf"`
+> Note: Fun tip: You can use this to (singular/mass)rename file in other langues, eg:
+> `mv "电视遥控器手册.pdf" "$(python cli-lingo.py "电视遥控器手册").pdf"`
