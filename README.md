@@ -3,7 +3,7 @@
 
 
 ### Quick Install:
-- `git clone https://github.com/critnull/cli-lingo@latest`
+- `git clone https://github.com/critnull/cli-lingo.git`
 - `cd cli-lingo`
 - `pip install -r requirements.txt`
 > Note: If you're having issues, it's the **googletrans** module you need from **requirements.txt**
